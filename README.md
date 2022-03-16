@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/tip-calculator-app-Yw_xqgMie](https://www.frontendmentor.io/solutions/tip-calculator-app-Yw_xqgMie)
 - Live Site URL: [https://tip-calculator-app-52x.pages.dev/](https://tip-calculator-app-52x.pages.dev/)
 
 ## My process
