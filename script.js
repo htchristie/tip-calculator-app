@@ -75,10 +75,11 @@ function reset() {
   setBillValue();
 
   tipValue = 0;
+  tipCustom.value = '';
   tipBtn.forEach(btn => {
     btn.classList.remove('active');
   });
-  
+    
   people.value = '';
   setPeopleValue();
 }
